@@ -1,0 +1,9 @@
+,measurement,mean,median,mode,min,max,range,std,var,25th percentile,75th percentile
+1,BMI,28.300559393746376,27.32,"0    26.63
+Name: BMI, dtype: float64",12.02,94.85,82.83,6.341603534498141,40.21593538875931,24.01,31.38
+2,PhysicalHealth,3.1559699212936185,0.0,"0    0.0
+Name: PhysicalHealth, dtype: float64",0.0,30.0,30.0,7.675157636174877,58.908044740133526,0.0,1.0
+3,MentalHealth,3.8251593950462426,0.0,"0    0.0
+Name: MentalHealth, dtype: float64",0.0,30.0,30.0,7.856202990214274,61.7199254234517,0.0,3.0
+4,SleepTime,7.093690490891247,7.0,"0    7.0
+Name: SleepTime, dtype: float64",1.0,24.0,23.0,1.4097807314628221,1.9874817108038498,6.0,8.0
